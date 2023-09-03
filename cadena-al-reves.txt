@@ -1,5 +1,4 @@
 
-//Por mejorar, mucho uso de memoria.
 //CADENA AL REVES
 
 class Solution {
